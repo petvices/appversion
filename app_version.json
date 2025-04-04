@@ -1,0 +1,22 @@
+{
+    "latest_version": "0.0.4",
+    "download_url": "https://softwans.com/hypatia",
+    "is_mandatory": false,
+    "release_notes": {
+      "es": [
+        "🆕 Nuevo diseño de interfaz",
+        "🚀 Rendimiento mejorado en un 10%",
+        "🐛 Corrección de errores críticos",
+        "🔒 Mejoras de seguridad",
+        "👨‍💻 Nuevo sistema de Actualizaciones",
+        "⌨️ Nuevo programa de beta testing",
+         "📎 Testing"
+      ],
+      "en": [
+        "🆕 New UI design",
+        "🚀 40% performance improvement",
+        "🐛 Critical bug fixes",
+        "🔒 Security enhancements"
+      ]
+    }
+  }
