@@ -1,6 +1,6 @@
 {
     "latest_version": "0.0.4",
-    "download_url": "https://play.google.com/store/apps/details?id=tech.hypatia.OpExamsQuestionsGenerator",
+    "download_url": "https://appversion-xi.vercel.app/app-release.apk",
     "is_mandatory": false,
     "release_notes": {
       "es": [
