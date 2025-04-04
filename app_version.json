@@ -1,7 +1,7 @@
 {
     "latest_version": "0.0.4",
     "download_url": "https://appversion-xi.vercel.app/app-release.apk",
-    "is_mandatory": false,
+    "is_mandatory": true,
     "release_notes": {
       "es": [
         "🆕 Nuevo diseño de interfaz",
