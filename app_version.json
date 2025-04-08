@@ -1,14 +1,15 @@
 {
-    "latest_version": "0.0.3",
+    "latest_version": "0.0.4",
     "download_url": "https://appversion-xi.vercel.app/hypatia-alpha-testing.apk",
     "is_mandatory": false,
     "release_notes": {
       "es": [
-        "🆕 Nuevo diseño de interfaz",
-        "🚀 Rendimiento mejorado en un 10%",
-        "🐛 Corrección de errores críticos",
-        "🔒 Mejoras de seguridad",
-        "⌨️ Nuevo sistema de actualizaciones"
+        "🆕 Nueva pantalla de configuraciones implementada",
+        "🕶️ Modo oscuro y modo claro en la aplicación",
+        "🔒 Nueva pantalla de logueo (implementación visual)",
+        "⌨️ Hemos deshabilitado las notificaciones por un bug visual",
+        "🐛 Aún seguimos trabajando para mejorar las notificaciones",
+        "📎 Testing mode program"
 
       ],
       "en": [
